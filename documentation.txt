@@ -1,0 +1,11 @@
+avl tree :
+
+https://www.cs.cmu.edu/~rjsimmon/15122-s16/lec/16-avl.pdf
+
+https://www.codesdope.com/course/data-structures-avl-trees/
+
+https://github.com/VictorLowther/btree/tree/master
+
+https://www.youtube.com/watch?v=M-ovXwd6_0I&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG&index=78
+
+https://www.youtube.com/watch?v=otiDcwZbCo4&t=150s
